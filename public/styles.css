@@ -19,6 +19,10 @@ img {
   width: max-content;
 }
 
+h1 {
+  font-family: 'Hanalei', cursive;
+}
+
 .weather-form {
   width: 100%;
   max-width: 330px;
